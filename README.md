@@ -27,8 +27,6 @@ Instagram: ziyan._.solkar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <!-- React Native -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
   <!-- Expo -->
   <img src="https://static.expo.dev/static/brand/square-512x512.png" alt="Expo" width="50" height="50"/>
   <!-- Next.js -->
