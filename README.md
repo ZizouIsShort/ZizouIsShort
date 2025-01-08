@@ -2,7 +2,7 @@
 
 - ✨ Yo its @ZizouIsShort
 - 📫 ziyansolkar@gmail.com
-- ✅ Certified Bug Developer
+- ✅ Certified Dumass 
 
 <h3>Stalk Me Here</h3>
 Instagram: ziyan._.solkar 
@@ -41,5 +41,7 @@ Instagram: ziyan._.solkar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <!-- JetBrains -->
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains" width="50" height="50"/>
+  <!-- Pygame -->
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" alt="Pygame" height="50"/>
 </p>
 
