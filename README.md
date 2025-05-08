@@ -27,8 +27,10 @@ Instagram: ziyan._.solkar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <!-- Expo -->
-  <img src="https://static.expo.dev/static/brand/square-512x512.png" alt="Expo" width="50" height="50"/>
+  <!-- Expo Logo -->
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo" width="50" height="50"/>
+  <!-- Drizzle ORM Logo -->
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" width="50" height="50"/>
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
   <!-- Supabase -->
